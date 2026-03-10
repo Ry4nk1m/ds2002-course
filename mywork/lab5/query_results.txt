@@ -1,0 +1,4 @@
+title	author_name	genre	published_year
+Beloved	Toni Morrison	Fiction	1987
+Norwegian Wood	Haruki Murakami	Fiction	1987
+Things Fall Apart	Chinua Achebe	Fiction	1958
