@@ -1,0 +1,5 @@
+title	author_name	genre	published_year
+The Vegetarian	Han Kang	Fiction	2007
+Beloved	Toni Morrison	Fiction	1987
+Norwegian Wood	Haruki Murakami	Fiction	1987
+Things Fall Apart	Chinua Achebe	Fiction	1958
